@@ -4,8 +4,12 @@
 <br/>
 
 **한글로 푸는 워들, 한들** <br><br/>
-📅 `개발 기간` :  2022.4.18 ~ 2022.4.29<br/>
-🤝 `지원` : 42handeul@gmail.com
+📅 `개발 기간`  :  2022. 4. 18 ~ 2022. 4. 29<br/>
+🕗 `기능 업데이트`  :  2022. 5. 2 ~ 진행중<br/>
+🤝 `지원 이메일`  :  42handeul@gmail.com<br><br>
+<a href="https://apps.apple.com/kr/app/주소">
+  <img src="https://img.shields.io/badge/App%20Store-한들-C30000?style=for-the-badge&logo=App%20Store&logoColor=0D96F6" height=35/>
+</a>
 </div>
 
 <br><br>
@@ -16,7 +20,7 @@
 
 ## 👨‍👨‍👧 팀원
 
-| hekang | 정재무(jaemjung) | sumsong |
+| 강희영 (hekang) | 정재무 (jaemjung) | 송수민 (sumsong) |
 |:-:|:-:|:-:|
 |<img src="https://user-images.githubusercontent.com/75291932/165888231-1ee18fa3-60df-4a46-bc11-d2c511c245cf.png" width=200>|<img src="https://user-images.githubusercontent.com/75291932/165887851-b72ae8ba-2303-4dd9-9055-6d5d27d1d51d.png" width=200>|<img src="https://user-images.githubusercontent.com/75291932/165887833-e8e3c7b2-ebe5-4f7e-bcb1-b4d5e981c631.png" width=200>|
 |[@hekang42](https://github.com/hekang42)|[@JaemooJung](https://github.com/JaemooJung)|[@sumnii](https://github.com/sumnii)|
@@ -45,3 +49,7 @@
 
 <br/>
 <br/>
+
+---
+
+<div align="right"><img height="50" src="https://user-images.githubusercontent.com/75291932/165880712-fe72dbe7-acb2-4b8c-9280-e63f5e5c1183.png"></img></div>
