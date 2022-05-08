@@ -32,6 +32,8 @@
 [![xcode](https://img.shields.io/badge/Xcode-13.0-blue)]()
 [![firebase](https://img.shields.io/badge/Firebase-8.9.0-red)]()
 <br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> 
